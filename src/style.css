@@ -1,0 +1,25 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+    padding: 0;
+}
+
+.border-green{
+    border: solid 2px green;
+}
+
+.border-gold{
+    border: solid 1px gold;
+}
+
+.w-1-8{
+    width: 12.5%;
+}
+
+.padding-40{
+    padding: 40%;
+}
+
+.mb-10{
+    margin-bottom: 10%;
+}
