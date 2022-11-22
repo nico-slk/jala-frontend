@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import Square from "./Square";
-import './style.css'
+import './style.scss'
 
 function App() {
   let background;
